@@ -40,7 +40,7 @@ How to Use
    - Choose resolution and output format (e.g., MP4)
    - Click `Render` > `Render Animation`
 Report & Documentation
-The full documentation of the anatomical design, modeling steps, rendering strategy, and educational goals is available in `docs/VisualSystem.pdf`.
+The full documentation of the anatomical design, modeling steps, rendering strategy, and educational goals is available in `docs/Visualizing the Human Visual Systems.pdf`.
 Future Enhancements
 - Add VR compatibility for Oculus or Cardboard.
 - Introduce interactive click-based anatomy exploration.
